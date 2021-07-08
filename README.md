@@ -13,7 +13,7 @@ const anthony = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Swift, Python, C#, Dart],
   tools: [Angular, Node, Docker, .NET],
-  challenge: "I am currently studying to obtain the Azure Developer certificaiton."
+  challenge: "I am currently studying to obtain my Azure Developer certification."
 }
 ```
 
