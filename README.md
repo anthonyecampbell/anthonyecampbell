@@ -1,6 +1,6 @@
 <h2> hello, i'm anthony campbell! <img src="https://media.giphy.com/media/dSZeGNWkA0pk4/source.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/JR7iS0j2YwfW9mopu3/source.gif" width="230">
-<p><em>software enginner at <a href="https://www.nvisia.com/">nvisia</a><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/source.gif" width="30"></br>variety streamer at <a href="https://www.twitch.tv/thatboycorrupt">twitch</a><img src="https://media.giphy.com/media/jyAfmNvtRHVE47tKHo/source.gif" width="30"> 
+<p><em>technical lead at <a href="https://www.nvisia.com/">nvisia</a><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/source.gif" width="30"></br>variety streamer at <a href="https://www.twitch.tv/thatboycorrupt">twitch</a><img src="https://media.giphy.com/media/jyAfmNvtRHVE47tKHo/source.gif" width="30"> 
 </em></p>
 
 [![Twitter: ThatBoyCorrupt](https://img.shields.io/twitter/follow/ThatBoyCorrupt?style=social)](https://twitter.com/ThatBoyCorrupt)
