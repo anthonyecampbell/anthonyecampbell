@@ -3,10 +3,10 @@
 <p><em>technical lead at <a href="https://www.nvisia.com/">nvisia</a><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/source.gif" width="30"></br>variety streamer at <a href="https://www.twitch.tv/thatboycorrupt">twitch</a><img src="https://media.giphy.com/media/jyAfmNvtRHVE47tKHo/source.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThatBoyCorrupt](https://img.shields.io/twitter/follow/ThatBoyCorrupt?style=social)](https://twitter.com/ThatBoyCorrupt)
+[![Twitter: OpenSourceAnt](https://img.shields.io/twitter/follow/OpenSourceAnt?style=social)](https://twitter.com/OpenSourceAnt)
 [![Linkedin: anthonyecampbell](https://img.shields.io/badge/-anthonyecampbell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthonyecampbell/)](https://www.linkedin.com/in/anthonyecampbell/)
 [![GitHub anthony campbell](https://img.shields.io/github/followers/anthonyecampbell?label=follow&style=social)](https://github.com/anthonyecampbell)
-[![Twitch anthony campbell](https://img.shields.io/twitch/status/thatboycorrupt?style=social)](https://twitch.tv/thatboycorrupt)
+[![Twitch anthony campbell](https://img.shields.io/twitch/status/OpenSourceAnt?style=social)](https://twitch.tv/OpenSourceAnt)
 
 ```javascript
 const anthony = {
