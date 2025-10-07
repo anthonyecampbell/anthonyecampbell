@@ -1,6 +1,6 @@
 <h2> hello, i'm anthony campbell! <img src="https://media.giphy.com/media/dSZeGNWkA0pk4/source.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/JR7iS0j2YwfW9mopu3/source.gif" width="230">
-<p><em>technical lead at <a href="https://www.nvisia.com/">nvisia</a><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/source.gif" width="30"></br>variety streamer at <a href="https://www.twitch.tv/thatboycorrupt">twitch</a><img src="https://media.giphy.com/media/jyAfmNvtRHVE47tKHo/source.gif" width="30"> 
+<p><em>delivery lead at <a href="https://www.nvisia.com/">nvisia</a><img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/source.gif" width="30"></br>variety streamer at <a href="https://www.twitch.tv/opensourceant">twitch</a><img src="https://media.giphy.com/media/jyAfmNvtRHVE47tKHo/source.gif" width="30"> 
 </em></p>
 
 [![Twitter: OpenSourceAnt](https://img.shields.io/twitter/follow/OpenSourceAnt?style=social)](https://twitter.com/OpenSourceAnt)
@@ -11,7 +11,7 @@
 ```javascript
 const anthony = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Swift, Python, C#, Dart],
+  code: [Javascript, Typescript, HTML, CSS, Swift, Python, C#, Java, Dart],
   tools: [Angular, Node, Docker, .NET],
   challenge: "I am currently working on a cross-platform mobile app."
 }
