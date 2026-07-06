@@ -21,7 +21,7 @@ const anthony = {
 
 ---
 <!--START_SECTION:badges-->
-
+[![Claude Certified Architect - Foundations](https://images.credly.com/size/80x80/images/f2040db3-3904-4240-8966-e87b1510bea0/blob)](https://www.credly.com/badges/eeb917ac-6a0a-4878-8a43-3a37049228e8)
 <!--END_SECTION:badges-->
 <!--
 **anthonyecampbell/anthonyecampbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
