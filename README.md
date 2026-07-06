@@ -20,6 +20,9 @@ const anthony = {
 <img src="https://media.giphy.com/media/EPffed1dXuDbsK86H9/source.gif" width="60"> <em><b>I enjoy meeting new people</b> so if you want to say <b>hi, I'll be more than happy to chat with you!</b> :)</em>
 
 ---
+<!--START_SECTION:badges-->
+
+<!--END_SECTION:badges-->
 <!--
 **anthonyecampbell/anthonyecampbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
